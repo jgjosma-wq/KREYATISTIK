@@ -21,26 +21,26 @@ Otantifikasyon senp (imèl, modpas, oswa login sosyal).
 
 ### Maybe Have (Fonksyonalite ki itil men pa obligatwa nan premye vèsyon)
 Sa yo ka ajoute nan yon dezyèm faz pou amelyore eksperyans itilizatè:
-• 	Chat dirèk ant atis ak kliyan: 
+- Chat dirèk ant atis ak kliyan: 
 Pou diskite sou pwodwi, personnalisyon, oswa mod livrezon.
-• 	Evalyasyon ak revizyon: 
+- Evalyasyon ak revizyon: 
 Kliyan yo ka kite kòmantè ak nòt sou pwodwi yo.
-• 	Wishlist (lis swè): 
+- Wishlist (lis swè): 
 Kliyan yo ka sere pwodwi yo renmen pou achte pita.
-• 	Multilang (Kreyòl, Fransè, Anglè): 
+- Multilang (Kreyòl, Fransè, Anglè): 
 Pou atire kliyan entènasyonal yo (Dyaspora).
-• 	Sistèm livrezon entegre: 
+- Sistèm livrezon entegre: 
 Swivi livrezon ak kolaborasyon ak sèvis transpò lokal.
 
 ### Would be Nice to Have (Fonksyonalite inovatif ki ka diferansye aplikasyon an)
 Sa yo se opsyon ki ka pote plis valè ak fè aplikasyon an vin inik:
-• 	Reyalite vityèl (VR/AR): 
+- Reyalite vityèl (VR/AR): 
 Kliyan yo ka wè pwodwi yo nan yon ekspozisyon 3D oswa nan espas lakay yo.
-• 	Marketplace entegre ak rezo sosyal: 
+- Marketplace entegre ak rezo sosyal: 
 Pataje pwodwi dirèkteman sou Facebook, Instagram, WhatsApp.
-• 	Pwogram fidèlite ak pwen: 
+- Pwogram fidèlite ak pwen: 
 Chak acha bay pwen ki ka itilize pou rabè oswa kado.
-• 	Analytics pou atis yo: 
+- Analytics pou atis yo: 
 Done sou lavant, vizit, ak enterè kliyan pou ede yo amelyore estrateji yo.
 • 	Evenman vityèl: 
 Ekspozisyon dijital, lansman koleksyon, oswa atelye sou platfòm nan.
