@@ -2,7 +2,7 @@
 ## Deskripsyon
 KREYATISTIK se yon platfòm nimerik ki fèt pou bay atis ak atizan ayisyen plis vizibilite ak opòtinite sou mache lokal ak entènasyonal. Fas ak mank envestisman, feblès ankadreman, ak ensekirite ki limite devlopman sektè atistik la, KREYATISTIK ofri yon galri vityèl kote chak pwodwi ka prezante pwofesyonèlman. Platfòm nan chèche amelyore kondisyon sosyal ak ekonomik atis yo, ankouraje inovasyon, epi kreye yon pon ant kreyativite ayisyèn ak kliyan atravè mond lan. Avèk yon modèl ki baze sou komisyon, abònman, ak patenarya, KREYATISTIK vize jenere pwofi dirab pandan li soutni devlopman kiltirèl ak antreprenarya jèn yo.
 
-Men estrikti pwofesyonèl pou aplikasyon mobil KREYATISTIK, ak detay sou fonksyonalite yo nan kategori Must Have, Maybe Have, ak Would be Nice to Have. 
+- Men estrikti pwofesyonèl pou aplikasyon mobil KREYATISTIK, ak detay sou fonksyonalite yo nan kategori Must Have, Maybe Have, ak Would be Nice to Have. 
 
 ### Must Have 
 Sa yo se fonksyonalite debaz ki nesesè pou aplikasyon an mache:
@@ -21,8 +21,9 @@ Otantifikasyon senp (imèl, modpas, oswa login sosyal).
 
 ### Maybe Have (Fonksyonalite ki itil men pa obligatwa nan premye vèsyon)
 Sa yo ka ajoute nan yon dezyèm faz pou amelyore eksperyans itilizatè:
+- Kategorite chak tip pwodwi : Platfòm nan ap klase tout pwodwi yo an kategori (katalòg pou penti, bijou, sandal, valiz, rad,). Epi, fè katalòg pou tout dizaynè ak pwodiktè ki gen pwodui yo sou patfòm nan.
 - Chat dirèk ant atis ak kliyan: 
-Pou diskite sou pwodwi, personnalisyon, oswa mod livrezon.
+Pou diskite sou pwodwi, pèsonalizasyon, oswa mod livrezon.
 - Evalyasyon ak revizyon: 
 Kliyan yo ka kite kòmantè ak nòt sou pwodwi yo.
 - Wishlist (lis swè): 
@@ -42,5 +43,6 @@ Pataje pwodwi dirèkteman sou Facebook, Instagram, WhatsApp.
 Chak acha bay pwen ki ka itilize pou rabè oswa kado.
 - Analytics pou atis yo: 
 Done sou lavant, vizit, ak enterè kliyan pou ede yo amelyore estrateji yo.
-• 	Evenman vityèl: 
-Ekspozisyon dijital, lansman koleksyon, oswa atelye sou platfòm nan.
+- Evenman vityèl: 
+Ekspozisyon dijital, lansman koleksyon, oswa atelye fòmasyon sou platfòm nan.
+- Entegre kreyativite atistik sou platfòm nan : Dansè, Gwoup dans, Lekòl dans, pwodiksyon odyo vizyèl ak espektak.
