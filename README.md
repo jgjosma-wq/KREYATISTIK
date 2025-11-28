@@ -15,7 +15,7 @@ Yon seksyon kote chak atizan ka mete foto pwodwi a, deskripsyon pwodwi a, ak pri
 - 	Fonksyon rechèch ak kategori:
 Kliyan yo ka chèche pwodwi pa tip (bijou, penti, valiz, Sandal, Rad tradisyonèl) oswa pa atis.
 - 	Panye ak acha senp:
-Posibilite pou mete pwodwi nan panye epi fè acha atravè metòd peman ki disponib sou palfòm nan.
+Posibilite pou mete pwodwi nan panye ki sou palfòm nan.
 
 ### Maybe Have (Fonksyonalite ki itil men pa obligatwa nan premye vèsyon)
 Sa yo ka ajoute nan yon dezyèm faz pou amelyore eksperyans itilizatè:
