@@ -9,15 +9,13 @@ Sa yo se fonksyonalite debaz ki nesesè pou aplikasyon an mache:
 - Kreye kont itilizatè (Atis/Kliyan): 
 Posibilite pou atis yo enskri sou platfòm nan, mete pwofil yo ak yon deskripsyon sou yo (CV) ak foto pwodwi yo.
 - 	Sekirite ak login:
-Otantifikasyon senp (imèl, modpas, oswa login sosyal).
+Otantifikasyon senp (imèl, modpas, oswa login).
 - Galri dijital pwodwi yo:
 Yon seksyon kote chak atizan ka mete foto pwodwi a, deskripsyon pwodwi a, ak pri pwodwi yo.
 - 	Fonksyon rechèch ak kategori:
 Kliyan yo ka chèche pwodwi pa tip (bijou, penti, valiz, Sandal, Rad tradisyonèl) oswa pa atis.
 - 	Panye ak acha senp:
 Posibilite pou mete pwodwi nan panye epi fè acha atravè metòd peman ki disponib sou palfòm nan.
-- 	Sistèm notifikasyon:
-Alèt pou nouvo pwodwi, pwomosyon, Konferans, envitasyon pou aktivite oswa konfimasyon acha.
 
 ### Maybe Have (Fonksyonalite ki itil men pa obligatwa nan premye vèsyon)
 Sa yo ka ajoute nan yon dezyèm faz pou amelyore eksperyans itilizatè:
