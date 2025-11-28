@@ -7,7 +7,7 @@ KREYATISTIK se yon platfòm nimerik ki fèt pou bay atis ak atizan ayisyen plis 
 ### Must Have 
 Sa yo se fonksyonalite debaz ki nesesè pou aplikasyon an mache:
 - Kreye kont itilizatè (Atis/Kliyan): 
-Posibilite pou atis yo enskri sou platfòm nan, mete pwofil yo ak yon deskripsyon sou yo (CV) ak foto pwodwi yo; kliyan yo ka kreye kont pou achte.
+Posibilite pou atis yo enskri sou platfòm nan, mete pwofil yo ak yon deskripsyon sou yo (CV) ak foto pwodwi yo.
 - Galri dijital pwodwi yo:
 Yon seksyon kote chak atizan ka mete foto pwodwi a, deskripsyon pwodwi a, ak pri pwodwi yo.
 - 	Fonksyon rechèch ak kategori:
