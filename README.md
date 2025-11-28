@@ -13,7 +13,7 @@ Otantifikasyon senp (imèl, modpas, oswa login sosyal).
 - Galri dijital pwodwi yo:
 Yon seksyon kote chak atizan ka mete foto pwodwi a, deskripsyon pwodwi a, ak pri pwodwi yo.
 - 	Fonksyon rechèch ak kategori:
-Kliyan yo ka chèche pwodwi pa tip (bijou, penti, valiz, Sandal, Rad tradisyonèl (Karabela), elatriye) oswa pa atis.
+Kliyan yo ka chèche pwodwi pa tip (bijou, penti, valiz, Sandal, Rad tradisyonèl) oswa pa atis.
 - 	Panye ak acha senp:
 Posibilite pou mete pwodwi nan panye epi fè acha atravè metòd peman ki disponib sou palfòm nan.
 - 	Sistèm notifikasyon:
