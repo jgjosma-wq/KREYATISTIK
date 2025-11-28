@@ -21,6 +21,8 @@ Posibilite pou mete pwodwi nan panye ki sou palfòm nan.
 Sa yo ka ajoute nan yon dezyèm faz pou amelyore eksperyans itilizatè:
 - KYC pou atizan yo : Metòd sa la pou fè veriifikasyon idantite atizan ki gen sou platfòn nan yon fason pou n otantifye tout vandè yo.
 - Kategorite chak tip pwodwi : Platfòm nan ap klase tout pwodwi yo an kategori (katalòg pou penti, bijou, sandal, valiz, rad,). Epi, fè katalòg pou tout dizaynè ak pwodiktè ki gen pwodui yo sou patfòm nan.
+- Panye ak acha senp: Posibilite pou mete pwodwi nan panye epi fè acha atravè metòd peman ki disponib sou palfòm nan.
+- Sistèm notifikasyon: Alèt pou nouvo pwodwi, pwomosyon, Konferans, envitasyon pou aktivite oswa konfimasyon acha.
 - Chat dirèk ant atis ak kliyan: 
 Pou diskite sou pwodwi, pèsonalizasyon, oswa mod livrezon.
 - Evalyasyon ak revizyon: 
