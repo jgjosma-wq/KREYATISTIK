@@ -17,6 +17,8 @@ Kliyan yo ka chèche pwodwi pa tip (bijou, penti, valiz, Sandal, Rad tradisyonè
 - 	Panye ak acha senp:
 Posibilite pou mete pwodwi nan panye ki sou palfòm nan.
 
+
+
 ### Maybe Have (Fonksyonalite ki itil men pa obligatwa nan premye vèsyon)
 Sa yo ka ajoute nan yon dezyèm faz pou amelyore eksperyans itilizatè:
 - KYC pou atizan yo : Metòd sa la pou fè veriifikasyon idantite atizan ki gen sou platfòn nan yon fason pou n otantifye tout vandè yo.
